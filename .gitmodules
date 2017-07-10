@@ -1,9 +1,0 @@
-[submodule "zicang0"]
-	path = zicang0
-	url = https://github.com/NaNyoyo/zicang2.git
-[submodule "yoyo-test1"]
-	path = yoyo-test1
-	url = https://github.com/NaNyoyo/yoyo-test1.git
-[submodule "zicang/新建文件夹"]
-	path = zicang/新建文件夹
-	url = https://github.com/NaNyoyo/zicang3.git
